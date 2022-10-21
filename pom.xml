@@ -15,7 +15,7 @@
 
   <groupId>september</groupId>
   <artifactId>september</artifactId>
-  <packaging>ejb</packaging>
+  <packaging>war</packaging>
   <version>v1</version>
 
   <name>september</name>
