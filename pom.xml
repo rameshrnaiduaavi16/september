@@ -15,7 +15,7 @@
 
   <groupId>september</groupId>
   <artifactId>september</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>v1</version>
 
   <name>september</name>
